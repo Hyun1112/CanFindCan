@@ -1,5 +1,7 @@
 # CanFindCan 딥러닝 기반 캔음료 인식 애플리케이션
-<br/>
+
+## 💡 프로젝트 소개
+시각장애인
 
 ## 💡 개발 배경
 ![image](https://user-images.githubusercontent.com/88569472/203055052-8023b95d-f4ab-4a0f-809e-28f3d639ee0d.png)
@@ -10,4 +12,47 @@
 <br/>
 이러한 불편함을 해소하고자 시각장애인들의 캔 음료 인식을 도와주는 애플리케이션 “CanFindCan”을 개발하게 되었다.
 <br/>
+
+## 💡 주요 기능
+### 1. 캔 음료 인식
+![image](https://user-images.githubusercontent.com/88569472/203058225-991607c8-d69c-4920-85fa-ae562edbccc8.png)
+- 애플리케이션 실행 시 자동으로 웹 뷰 실행
+- 학습된 데이터가 적용된 HTML 기반의 웹 서버
+- 실행된 카메라에 캔을 비추면 종류 분석 진행
+- 분석 완료 시 음성 안내
+
+### 2. 유통기한 인식
+![image](https://user-images.githubusercontent.com/88569472/203058374-ff09671b-a44b-4d90-9d7d-41504c6f0a16.png)
+![image](https://user-images.githubusercontent.com/88569472/203058501-286a6035-0d46-4aaf-a861-8bed711f121a.png)
+- 중앙부에 위치한 카메라 버튼 클릭 시 내장 카메라 실행
+- 카메라로 캔 바닥 촬영
+- 유통기한 글자 추출 후 음성 안내
+- 상단 BACK 버튼 클릭 시 캔 음료 인식 기능 재실행
+
+## 💡 구성도
+![image](https://user-images.githubusercontent.com/88569472/203058916-f8b371b0-55fe-4704-af7a-5659f0b1fb63.png)
+![image](https://user-images.githubusercontent.com/88569472/203058972-6ebb2030-fed5-48f7-92da-1deb67ce2176.png)
+
+
+## 💡 사용 기술
+- Web Crawling
+- labelImg 툴을 이용하여 이미지의 클래스와 경계박스 지정
+- YOLOv5를 사용하여 모델 학습
+- 학습 된 pt 파일을 tfjs 모델로 변환
+- Amazon AWS IoT Core, AWS Rule, AWS IAM, AWS S3, AWS Cognito
+- Amazon Rekognition
+
+## 💡 기대효과 및 발전방향
+- 캔 음료 구분에 대한 시각장애인들의 불편함 해소
+- 일반 음료, 과자, 의약품 등과 같이 다양한 분야에서 활용
+- 캔 상세정보 검출, 캔 위치 찾기 등 추가적인 기능으로 애플리케이션 확장
+
+## 💡 팀원
+|이름|역할|
+|----|-------|
+|김현경|UI/UX, 텍스트 인식 기능 구현|
+|이하영|텍스트 인식 기능 구현, 앱 구현|
+|임수빈|웹 서버 개발, 모델 학습|
+|정민경|데이터 수집, 모델 학습, 앱 구현|
+
 
