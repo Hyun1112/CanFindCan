@@ -8,7 +8,7 @@
 
 ## 💡 개발 배경
 <img src="https://user-images.githubusercontent.com/88569472/203055052-8023b95d-f4ab-4a0f-809e-28f3d639ee0d.png" width="850" height="480">
-<img src="https://user-images.githubusercontent.com/88569472/203055161-21ca38c8-a0a2-4d50-aff3-a9bc0130c6bc.png" width="850" height="450">
+<img src="https://user-images.githubusercontent.com/88569472/203055161-21ca38c8-a0a2-4d50-aff3-a9bc0130c6bc.png" width="850" height="420">
 시각장애인들은 캔 음료의 종류를 구분하지 못하고 유통기한을 인식하지 못하여 음료수를 고르는데 불편을 겪고 있다.
 <br/>
 국내에서 팔고 있는 캔 음료는 구체적인 상품명이 아닌 “음료“, 혹은 “탄산”으로만 표기되어 있는 경우가 대부분이고 유통기한은 점자 표기조차 없어 글을 읽을 수 없다면 파악할 수 없다.
@@ -25,8 +25,8 @@
 - 분석 완료 시 음성 안내
 
 ### 2. 유통기한 인식
-![image](https://user-images.githubusercontent.com/88569472/203058374-ff09671b-a44b-4d90-9d7d-41504c6f0a16.png)
-![image](https://user-images.githubusercontent.com/88569472/203058501-286a6035-0d46-4aaf-a861-8bed711f121a.png)
+<img src="https://user-images.githubusercontent.com/88569472/203058374-ff09671b-a44b-4d90-9d7d-41504c6f0a16.png" width="850" height="450">
+<img src="https://user-images.githubusercontent.com/88569472/203058501-286a6035-0d46-4aaf-a861-8bed711f121a.png" width="850" height="450">
 - 중앙부에 위치한 카메라 버튼 클릭 시 내장 카메라 실행
 - 카메라로 캔 바닥 촬영
 - 유통기한 글자 추출 후 음성 안내
