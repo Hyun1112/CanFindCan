@@ -31,11 +31,12 @@
 - 카메라로 캔 바닥 촬영
 - 유통기한 글자 추출 후 음성 안내
 - 상단 BACK 버튼 클릭 시 캔 음료 인식 기능 재실행
+<br/>
 
 ## 💡 구성도
 ![image](https://user-images.githubusercontent.com/88569472/203058916-f8b371b0-55fe-4704-af7a-5659f0b1fb63.png)
 ![image](https://user-images.githubusercontent.com/88569472/203058972-6ebb2030-fed5-48f7-92da-1deb67ce2176.png)
-
+<br/>
 
 ## 💡 사용 기술
 - Web Crawling
@@ -44,11 +45,13 @@
 - 학습 된 pt 파일을 tfjs 모델로 변환
 - Amazon AWS IoT Core, AWS Rule, AWS IAM, AWS S3, AWS Cognito
 - Amazon Rekognition
+<br/>
 
 ## 💡 기대효과 및 발전방향
 - 캔 음료 구분에 대한 시각장애인들의 불편함 해소
 - 일반 음료, 과자, 의약품 등과 같이 다양한 분야에서 활용
 - 캔 상세정보 검출, 캔 위치 찾기 등 추가적인 기능으로 애플리케이션 확장
+<br/>
 
 ## 💡 프로젝트 기간
 2022.03 ~ 2022.06
