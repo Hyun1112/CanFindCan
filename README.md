@@ -34,8 +34,8 @@
 <br/>
 
 ## 💡 구성도
-![image](https://user-images.githubusercontent.com/88569472/203058916-f8b371b0-55fe-4704-af7a-5659f0b1fb63.png)
-![image](https://user-images.githubusercontent.com/88569472/203058972-6ebb2030-fed5-48f7-92da-1deb67ce2176.png)
+<img src="https://user-images.githubusercontent.com/88569472/203058916-f8b371b0-55fe-4704-af7a-5659f0b1fb63.png" width="800" height="300">
+<img src="https://user-images.githubusercontent.com/88569472/203058972-6ebb2030-fed5-48f7-92da-1deb67ce2176.png" width="400" height="900">
 <br/>
 
 ## 💡 사용 기술
