@@ -25,8 +25,8 @@
 - 분석 완료 시 음성 안내
 
 ### 2. 유통기한 인식
-<img src="https://user-images.githubusercontent.com/88569472/203058374-ff09671b-a44b-4d90-9d7d-41504c6f0a16.png" width="850" height="450">
-<img src="https://user-images.githubusercontent.com/88569472/203058501-286a6035-0d46-4aaf-a861-8bed711f121a.png" width="850" height="450">
+<img src="https://user-images.githubusercontent.com/88569472/203058374-ff09671b-a44b-4d90-9d7d-41504c6f0a16.png" width="700" height="450">
+<img src="https://user-images.githubusercontent.com/88569472/203058501-286a6035-0d46-4aaf-a861-8bed711f121a.png" width="700" height="450">
 - 중앙부에 위치한 카메라 버튼 클릭 시 내장 카메라 실행
 - 카메라로 캔 바닥 촬영
 - 유통기한 글자 추출 후 음성 안내
