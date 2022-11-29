@@ -7,7 +7,7 @@
 <br/>
 
 ## 💡 개발 배경
-<img src="https://user-images.githubusercontent.com/88569472/203055052-8023b95d-f4ab-4a0f-809e-28f3d639ee0d.png" width="850" height="500">
+<img src="https://user-images.githubusercontent.com/88569472/203055052-8023b95d-f4ab-4a0f-809e-28f3d639ee0d.png" width="850" height="480">
 <img src="https://user-images.githubusercontent.com/88569472/203055161-21ca38c8-a0a2-4d50-aff3-a9bc0130c6bc.png" width="850" height="450">
 시각장애인들은 캔 음료의 종류를 구분하지 못하고 유통기한을 인식하지 못하여 음료수를 고르는데 불편을 겪고 있다.
 <br/>
@@ -18,7 +18,7 @@
 
 ## 💡 주요 기능
 ### 1. 캔 음료 인식
-![image](https://user-images.githubusercontent.com/88569472/203058225-991607c8-d69c-4920-85fa-ae562edbccc8.png)
+<img src="https://user-images.githubusercontent.com/88569472/203058225-991607c8-d69c-4920-85fa-ae562edbccc8.png" width="850" height="450">
 - 애플리케이션 실행 시 자동으로 웹 뷰 실행
 - 학습된 데이터가 적용된 HTML 기반의 웹 서버
 - 실행된 카메라에 캔을 비추면 종류 분석 진행
